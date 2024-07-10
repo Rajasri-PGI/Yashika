@@ -1,1 +1,1 @@
-# Yashika
+# AutoDock data
